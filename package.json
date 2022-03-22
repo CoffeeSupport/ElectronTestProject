@@ -1,0 +1,22 @@
+{
+  "name": "electrontestproject",
+  "version": "1.0.0",
+  "description": "this is a test project of mine",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeeSupport/ElectronTestProject.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoffeeSupport/ElectronTestProject/issues"
+  },
+  "homepage": "https://github.com/CoffeeSupport/ElectronTestProject#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
